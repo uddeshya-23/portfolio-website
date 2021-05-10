@@ -1,0 +1,17 @@
+{
+  "NAME": "Mr. Uddeshya",
+  "ABOUT_ME": "3rdyear B.tech Electronics And Communication Department COCHIN UNIVERSITY OF SCIENCE AND TECHNOLOGY KOCHI KERELA Skills -- WebDeveloper, Python ,C/C++ ,Flutter",
+  "LANGUAGES": [
+    "Python",
+    "C++",
+    "C",
+    "DART"
+  ],
+  "PROJECTS": [
+    [ "filter_drama", "MARKS PREDICTOR", "By using Basic Machine learning this project will predict marks after taking input how many hours you studied. [LINEAR REGRESSION]" ],
+      [ "place", "OPENCV PAN CARD DETECTOR", "This is OpenCv project. This app will detect all the texts on card. This is basically designed for extracting Pancard number.[tesseract]" ],
+      [ "whatshot", "FACE RECOGNITATION", "This is python project made with help of OpenCv , haarcasde" ],
+      [ "whatshot", "TELEGRAM BOT", "This is conversational Telegram bot. trained using Dialog Flow" ]
+  ] 
+
+}
